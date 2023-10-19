@@ -10,10 +10,13 @@ My name is João Marcos, but you can just call me João.
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Akame-CSS" height="40" width="40" src="https://icongr.am/devicon/css3-original.svg?size=70&color=currentColor">
+  <img align="center" alt="Akame-SASS" height="40" width="40" src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor">
   <img align="center" alt="Akame-HTML" height="40" width="40" src="https://icongr.am/devicon/html5-original.svg?size=70&color=currentColor">
   <img align="center" alt="Akame-Js" height="40" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=70&color=currentColor">
+  <img align="center" alt="Akame-Ts" height="40" width="40" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor">
   <img align="center" alt="Akame-NodeJs" height="40" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=70&color=currentColor">
   <img align="center" alt="Akame-React" height="40" width="40" src="https://icongr.am/devicon/react-original.svg?size=70&color=currentColor">
+  <img align="center" alt="Akame-Docker" height="40" width="40" src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor">
   <img align="center" alt="Akame-PostgreSQL" height="40" width="40" src="https://icongr.am/devicon/postgresql-original.svg?size=70&color=currentColor">
   <img align="center" alt="Akame-MongoDB" height="40" width="40" src="https://icongr.am/devicon/mongodb-original.svg?size=70&color=currentColor">
   
