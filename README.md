@@ -25,6 +25,6 @@ My name is João Marcos, but you can just call me João.
  <dev>
   <a href="https://www.instagram.com/notjoaozinxz/" target"_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   <a href="https://www.linkedin.com/in/joão-marcos-silva-8328a7226/" target"_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  <a href="https://twitter.com/DevJoaozin" target"_blank"><img src="https://img.shields.io/twitter/url">
+  <a href="https://twitter.com/DevJoaozin" target"_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
  </dev>
  
